@@ -7,7 +7,7 @@ public class ShopRepositoryTest {
     ShopRepository repo = new ShopRepository();
     Product product1 = new Product(1, "Shorts", 1500);
     Product product2 = new Product(2, "Lamp", 3000);
-    Product product3 = new Product(1, "Milk", 100);
+    Product product3 = new Product(3, "Milk", 100);
 
 
     @Test
